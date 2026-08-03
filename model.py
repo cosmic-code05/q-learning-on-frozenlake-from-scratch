@@ -45,6 +45,9 @@ def should_explore(epsilon, rng):
     else:
         return False
 
+#def should_explore(epsilon, rng):
+#     return rng.random() < epsilon
+
 # Step 6 - epsilon_greedy_action (not yet solved)
 # TODO: implement
 
