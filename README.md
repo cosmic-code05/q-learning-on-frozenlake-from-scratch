@@ -14,7 +14,6 @@ The agent learns through trial and error:
 
 Instead of using a pre-built Q-learning implementation, the core algorithm is implemented manually to understand how each component works.
 
-
 ## Key Concepts
 
 **Reinforcement Learning**
